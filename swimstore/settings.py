@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ik6=^_hb+q9mh*%^*=jwj*3$4%kps9xx67x54jr7$e*weu*#o7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-hh859-swimstore-s4114d8lfab.ws-eu110.gitpod.io']
+ALLOWED_HOSTS = ['8000-hh859-swimstore-s4114d8lfab.ws-eu111.gitpod.io']
 
 
 # Application definition
@@ -147,6 +147,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
 STATIC_URL = '/static/'
+STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
