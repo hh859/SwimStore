@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ik6=^_hb+q9mh*%^*=jwj*3$4%kps9xx67x54jr7$e*weu*#o7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-hh859-swimstore-s4114d8lfab.ws-eu111.gitpod.io']
+ALLOWED_HOSTS = ['8000-hh859-swimstore-s4114d8lfab.ws-eu114.gitpod.io']
 
 
 # Application definition
@@ -44,7 +44,8 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'home',
     'products',
-    'bag'
+    'bag',
+    'checkout',
 
 ]
 
