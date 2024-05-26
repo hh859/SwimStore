@@ -7,6 +7,7 @@ It offers the opportunity to brouse and purchase equipment of different brands, 
 The website is aimed for children and adults of all ages who likes swimming and is looking for a perfect equipment. 
 
 FRONT PICTURE 
+  ![alt text](link)
 
 ## User Stories 
  - As a user, I want to easily find the right size
@@ -23,27 +24,45 @@ FRONT PICTURE
 - To offer intuitive user ...
 - To offer users option to manage and update their account
 
-## Wireframes 
+## Design and Wireframes 
 PICTURES
 
-## Frameworks and Libraries 
-- Bootstrap
-- Font Awesome
-- Gitpod
+## Technologies 
+### Frameworks and Libraries 
+- ![Bootstrap](https://getbootstrap.com/)
+- ![Font Awesome](https://fontawesome.com/)
+- ![jQuery](https://jquery.com/)
+- ![Gitpod]((https://www.gitpod.io/ )
 - GitHub
+- Heroku https://www.heroku.com/
+- PostgreSQL https://www.postgresql.org/
 
-## Languages 
-- HTML
-- CSS
-- JavaScript
-- Python
+### Languages 
+- ![HTML](https://www.w3schools.com/html/)
+- ![CSS](https://www.w3schools.com/css/)
+- ![JavaScript](https://www.javascript.com/)
+- ![Python](https://www.python.org/)
 
-## Websire Features
+## Website Features
+ - Front page
+Has the list of all items, search box, login/ account link
+
+ - Profile
+
+ - Checkout page 
+
 ## Future Improvements
 
-## Testing 
+
+
+## Testing and Validations
  - HTML
  - CSS
+ - Python
+
+## Credits
+
+
 
 
 **April 26 2024:** Update node version to 16
