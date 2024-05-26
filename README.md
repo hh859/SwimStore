@@ -34,8 +34,8 @@ PICTURES
 - [jQuery](https://jquery.com/)
 - [Gitpod]((https://www.gitpod.io/ )
 - GitHub
-- Heroku https://www.heroku.com/
-- PostgreSQL https://www.postgresql.org/
+-    [Heroku](https://www.heroku.com/)
+- PostgreSQL https://www.postgresql.org/  [jQuery](https://jquery.com/)
 
 ### Languages 
 - [HTML](https://www.w3schools.com/html/)
