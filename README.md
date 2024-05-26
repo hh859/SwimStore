@@ -1,4 +1,5 @@
-# Full Stack Frameworks with Django Project 4 - Swim Store
+# Swim Store
+## Full Stack Frameworks with Django Milestone Project 4 
 
 FRONT PICTURE 
   ![alt text](link)
@@ -72,8 +73,5 @@ Has the list of all items, search box, login/ account link
 - [Python](https://www.python.org/)
 
 
-
-
-**April 26 2024:** Update node version to 16
 
 
