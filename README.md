@@ -29,19 +29,19 @@ PICTURES
 
 ## Technologies 
 ### Frameworks and Libraries 
-- ![Bootstrap](https://getbootstrap.com/)
-- ![Font Awesome](https://fontawesome.com/)
-- ![jQuery](https://jquery.com/)
-- ![Gitpod]((https://www.gitpod.io/ )
+- [Bootstrap](https://getbootstrap.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [jQuery](https://jquery.com/)
+- [Gitpod]((https://www.gitpod.io/ )
 - GitHub
 - Heroku https://www.heroku.com/
 - PostgreSQL https://www.postgresql.org/
 
 ### Languages 
-- ![HTML](https://www.w3schools.com/html/)
-- ![CSS](https://www.w3schools.com/css/)
-- ![JavaScript](https://www.javascript.com/)
-- ![Python](https://www.python.org/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.javascript.com/)
+- [Python](https://www.python.org/)
 
 ## Website Features
  - Front page
