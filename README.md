@@ -26,16 +26,16 @@ Swim Store is dedicated to serving swimmers of all ages, helping them find the p
 - To offer users the option to manage and update their account
 
 ## Design and Wireframes 
-1. Front page
+1. **Front page**
    -  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/figma/Front%20page.png)
   
-2. Store page
+2. **Store page**
    - ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/figma/store%20page.png)
   
-3. Shopping basket
+3. **Shopping basket**
    - ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/figma/Shopping%20basket.png)
 
-4. Mobile View
+4. **Mobile View**
    - ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/figma/mobile%20view.png)
 
 ## Website Features
@@ -55,8 +55,8 @@ The front page of Swim Store is designed to provide a user-friendly and engaging
    - Before finalising the purchase, users can review their order details, including selected items, quantities, and total cost, to ensure accuracy.
 
 ## Future Improvements
-- Product Account Management - to allow users to manage their product preferences and saved items, making it easier to revisit and purchase their favourite products. This would include the ability to create wishlists and set notifications for restocks or sales on specific items
-- Multiple Payment Options - to allow the checkout page to support various payment methods, providing customers with the convenience of choosing their preferred option
+- **Product Account Management** - to allow users to manage their product preferences and saved items, making it easier to revisit and purchase their favourite products. This would include the ability to create wishlists and set notifications for restocks or sales on specific items
+- **Multiple Payment Options** - to allow the checkout page to support various payment methods, providing customers with the convenience of choosing their preferred option
 
 ## Testing 
 
