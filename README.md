@@ -39,25 +39,25 @@ Swim Store is dedicated to serving swimmers of all ages, helping them find the p
    - ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/figma/mobile%20view.png)
 
 ## Website Features
-1. Front page
+1. **Front Page**
 The front page of Swim Store is designed to provide a user-friendly and engaging experience for all visitors. It includes the following features:
    - Search Box: A well-placed search box allows users to effortlessly search for specific items by keywords, brands, sizes, colours, or categories. This feature ensures that visitors can quickly locate the products they need.
    - Login/Account Link: A convenient login/account link enables users to access their profiles with a single click. Registered users can manage their accounts, view order history, track current orders, and save their favourite items for future purchases.
 
-2. Profile page
+2. **Profile Page**
    -  Users can update and manage their personal information, including contact details, shipping addresses, and payment methods. This ensures that all information is current and accurate for seamless transactions. They can also save their details. The ability to save and manage personal details allows for faster checkout processes for future purchases. Users can store multiple shipping addresses and preferred payment methods securely.
    - Users can view their order history, track the status of current orders, and access details of past purchases. This feature provides transparency and convenience, helping users stay informed about their orders.
 
-3. Checkout page
+3. **Checkout Page**
    - The checkout page's streamlined design ensures that users can complete their purchases quickly and securely with minimal hassle.
    - Registered users can easily utilize their previously saved information, such as shipping addresses and payment methods, for a quicker checkout experience.
    - The checkout page allows new users or those who prefer to use different details to enter shipping and payment information. This flexibility ensures that all customers can complete their transactions according to their preferences.
-   - Before finalizing the purchase, users can review their order details, including selected items, quantities, and total cost, to ensure accuracy.
+   - Before finalising the purchase, users can review their order details, including selected items, quantities, and total cost, to ensure accuracy.
 
 ## Future Improvements
 - Product Account Management - to allow users to manage their product preferences and saved items, making it easier to revisit and purchase their favourite products. This would include the ability to create wishlists and set notifications for restocks or sales on specific items
 - Multiple Payment Options - to allow the checkout page to support various payment methods, providing customers with the convenience of choosing their preferred option
-- 
+
 ## Testing 
 
 ## Deployment 
@@ -77,13 +77,12 @@ The front page of Swim Store is designed to provide a user-friendly and engaging
 ## Credits 
 ### Technologies 
 #### Frameworks and Libraries 
-- [Bootstrap](https://getbootstrap.com/)
-- [Font Awesome](https://fontawesome.com/)
-- [jQuery](https://jquery.com/)
-- [Gitpod](https://www.gitpod.io/ )
-- GitHub
-- [Heroku](https://www.heroku.com/)
-- [PostgreSQL](https://www.postgresql.org/)
+- [Bootstrap](https://getbootstrap.com/) was used to create design and stylign for the website 
+- The icons were supplied by [Font Awesome](https://fontawesome.com/)
+- [jQuery](https://jquery.com/) was responsible for event handling and animation 
+- The project was created in the [Gitpod](https://www.gitpod.io/ )
+- And stored in the [GitHub](https://github.com) 
+- [Heroku](https://www.heroku.com/) was used for database 
 
 #### Languages 
 - [HTML](https://www.w3schools.com/html/)
