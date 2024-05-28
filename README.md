@@ -39,15 +39,25 @@ Swim Store is dedicated to serving swimmers of all ages, helping them find the p
    - ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/figma/mobile%20view.png)
 
 ## Website Features
- - Front page
-Has the list of all items, search box, login/ account link
+1. Front page
+The front page of Swim Store is designed to provide a user-friendly and engaging experience for all visitors. It includes the following features:
+   - Search Box: A well-placed search box allows users to effortlessly search for specific items by keywords, brands, sizes, colours, or categories. This feature ensures that visitors can quickly locate the products they need.
+   - Login/Account Link: A convenient login/account link enables users to access their profiles with a single click. Registered users can manage their accounts, view order history, track current orders, and save their favourite items for future purchases.
 
- - Profile
+2. Profile page
+   -  Users can update and manage their personal information, including contact details, shipping addresses, and payment methods. This ensures that all information is current and accurate for seamless transactions. They can also save their details. The ability to save and manage personal details allows for faster checkout processes for future purchases. Users can store multiple shipping addresses and preferred payment methods securely.
+   - Users can view their order history, track the status of current orders, and access details of past purchases. This feature provides transparency and convenience, helping users stay informed about their orders.
 
- - Checkout page 
+3. Checkout page
+   - The checkout page's streamlined design ensures that users can complete their purchases quickly and securely with minimal hassle.
+   - Registered users can easily utilize their previously saved information, such as shipping addresses and payment methods, for a quicker checkout experience.
+   - The checkout page allows new users or those who prefer to use different details to enter shipping and payment information. This flexibility ensures that all customers can complete their transactions according to their preferences.
+   - Before finalizing the purchase, users can review their order details, including selected items, quantities, and total cost, to ensure accuracy.
 
 ## Future Improvements
-
+- Product Account Management - to allow users to manage their product preferences and saved items, making it easier to revisit and purchase their favourite products. This would include the ability to create wishlists and set notifications for restocks or sales on specific items
+- Multiple Payment Options - to allow the checkout page to support various payment methods, providing customers with the convenience of choosing their preferred option
+- 
 ## Testing 
 
 ## Deployment 
