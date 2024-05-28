@@ -1,8 +1,7 @@
 # Swim Store
 ## Full Stack Frameworks with Django Milestone Project 4 
 
-FRONT PICTURE 
-  ![alt text](link)
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/main%20page.png)
 
 Swim Store is a website for professional swimmers, enthusiasts and parents offering swimming clothes and equipment for any ocaasion from professional training to open water meets, regular swimming sessions and professional suits for men, women and children of all ages. It also offers specialist swimming equipemnt for training and casual swimming.
 
