@@ -70,14 +70,25 @@ To resolve it, the following commands are used: pyenv install 3.9.19, then pyenv
 
 
 ## Validations
- - HTML
-  ![alt text](link)
- - CSS
-  ![alt text](link)
- - Python
-  ![alt text](link)
- - Lighthouse
-  ![alt text](link)
+ - **HTML**
+   - main page 
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/main%20page%20validator.png)
+   - shopping bag
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/shopping%20bag%20validator%20.png)
+   - login page
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/login%20validtor.png)
+   - register page
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/register%20validator.png)
+   - profile page
+  ![alt text]((https://github.com/hh859/SwimStore/blob/main/pictures/website/profile%20validator.png)
+   - producs page
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/products%20page%20validator%20.png)
+   - product management page
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/product%20management%20valdator%20.png)
+
+
+ - **CSS**
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/CSS%20validator.png)
 
 
 ## Credits 
