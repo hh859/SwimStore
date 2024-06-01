@@ -1,0 +1,1 @@
+web: gunicorn swim_store.wsgi:application
