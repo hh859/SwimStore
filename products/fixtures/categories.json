@@ -1,1 +1,82 @@
-[{"pk": 1, "model": "products.category", "fields": {"name": "activewear", "friendly_name": "Activewear"}}, {"pk": 2, "model": "products.category", "fields": {"name": "bed_bath", "friendly_name": "Bed & Bath"}}, {"pk": 3, "model": "products.category", "fields": {"name": "clearance", "friendly_name": "Clearance"}}, {"pk": 4, "model": "products.category", "fields": {"name": "deals", "friendly_name": "Deals"}}, {"pk": 5, "model": "products.category", "fields": {"name": "essentials", "friendly_name": "Essentials"}}, {"pk": 6, "model": "products.category", "fields": {"name": "jeans", "friendly_name": "Jeans"}}, {"pk": 7, "model": "products.category", "fields": {"name": "kitchen_dining", "friendly_name": "Kitchen & Dining"}}, {"pk": 8, "model": "products.category", "fields": {"name": "new_arrivals", "friendly_name": "New Arrivals"}}, {"pk": 9, "model": "products.category", "fields": {"name": "shirts", "friendly_name": "Shirts"}}]
+[
+    {
+      "pk": 1,
+      "model": "products.category",
+      "fields": {
+        "name": "swim_suits",
+        "friendly_name": "Swim Suits"
+      }
+    },
+    {
+      "pk": 2,
+      "model": "products.category",
+      "fields": {
+        "name": "sport",
+        "friendly_name": "Sport"
+      }
+    },
+    {
+      "pk": 3,
+      "model": "products.category",
+      "fields": {
+        "name": "f_competitive_swimwear",
+        "friendly_name": "Competitive Swimwear"
+      }
+    },
+    {
+      "pk": 4,
+      "model": "products.category",
+      "fields": {
+        "name": "swim_trunks",
+        "friendly_name": "Swim Trunks"
+      }
+    },
+    {
+      "pk": 5,
+      "model": "products.category",
+      "fields": {
+        "name": "swim_shorts",
+        "friendly_name": "Swim Shorts"
+      }
+    },
+    {
+      "pk": 6,
+      "model": "products.category",
+      "fields": {
+        "name": "m_competitive_swimwear",
+        "friendly_name": "Competitive Swimwear "
+      }
+    },
+    {
+      "pk": 7,
+      "model": "products.category",
+      "fields": {
+        "name": "goggles",
+        "friendly_name": "Goggles"
+      }
+    },
+    {
+      "pk": 8,
+      "model": "products.category",
+      "fields": {
+        "name": "caps",
+        "friendly_name": "Caps"
+      }
+    },
+    {
+      "pk": 9,
+      "model": "products.category",
+      "fields": {
+        "name": "training_aids",
+        "friendly_name": "Training Aids"
+      }
+    },
+    {
+        "pk": 9,
+        "model": "products.category",
+        "fields": {
+          "name": "towels",
+          "friendly_name": "Towels"
+        }
+      }
+  ]
