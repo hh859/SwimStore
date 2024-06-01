@@ -30,7 +30,9 @@ SECRET_KEY = os.environ.get("SECRET_KEY", '')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-hh859-swimstore-hp21wgv3qiy.ws-eu114.gitpod.io', 'wim-store.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['8000-hh859-swimstore-hp21wgv3qiy.ws-eu114.gitpod.io', 
+'swim-store.herokuapp.com', 'localhost',
+]
 
 
 # Application definition
