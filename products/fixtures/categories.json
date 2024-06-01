@@ -19,7 +19,7 @@
       "pk": 3,
       "model": "products.category",
       "fields": {
-        "name": "f_competitive_swimwear",
+        "name": "female_competitive_swimwear",
         "friendly_name": "Competitive Swimwear"
       }
     },
@@ -43,7 +43,7 @@
       "pk": 6,
       "model": "products.category",
       "fields": {
-        "name": "m_competitive_swimwear",
+        "name": "male_competitive_swimwear",
         "friendly_name": "Competitive Swimwear "
       }
     },
