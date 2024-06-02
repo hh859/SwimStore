@@ -67,7 +67,25 @@ To resolve it, the following commands are used: pyenv install 3.9.19, then pyenv
 
 
 ## Deployment 
+The site is hosted on Heroku and deployed from GitHub. To host the products, the site is connected to AWS storage, which holds the static files. PostgreSQL is used as the database for storing data:
 
+1. Go to Code Institute and input email to create a new database
+2. Receive a link with your newly created account credentials.
+3. Copy the link to the workspace.
+4. Update settings.py in the project directory with this URL.
+
+
+Deployment to Heroku:
+1. Register and log in to Heroku.
+2. Navigate to New > Create New App.
+3. Select a unique name for the app.
+4. Go to Settings > Reveal Config Vars.
+5. Add all variables from env.py to the Config Vars of the Heroku app.
+6. Add the Heroku app URL to ALLOWED_HOSTS in settings.py.
+7. Create a file named Procfile in the root directory.
+8. Navigate to Deploy > GitHub > Connect.
+9. Navigate to Deploy > Deploy Branch.
+10. Use the 'Open App' button at the top of the page to open the site.
 
 ## Validations
  - **HTML**
