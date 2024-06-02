@@ -62,7 +62,7 @@ The front page of Swim Store is designed to provide a user-friendly and engaging
 
 ### Known Bugs 
 There was an issue with Python version compatibility, which required an update for the older version. Currently, when opening the project and running the command, the terminal returns the following:
-  ![alt text]()
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/Python%20version.png)
 To resolve it, the following commands are used: pyenv install 3.9.19, then pyenv local 3.9.19, and then the project is running. 
 
 
