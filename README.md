@@ -7,7 +7,7 @@ Swim Store is a premier online destination catering to professional swimmers, en
 
 Our website provides a browsing and purchasing experience featuring a diverse choice of brands, sizes, and colours. Enjoy a fast and efficient checkout process, easy order management, and the ability to create a personalised profile for future purchases.
 
-Swim Store is dedicated to serving swimmers of all ages, helping them find the perfect gear to enhance their swimming experience - [](https://swim-store-45c460b85d20.herokuapp.com)
+Swim Store is dedicated to serving swimmers of all ages, helping them find the perfect gear to enhance their swimming experience - [click here to visit](https://swim-store-45c460b85d20.herokuapp.com)
 
 
 ## User Stories 
