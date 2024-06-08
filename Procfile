@@ -1,1 +1,1 @@
-web: gunicorn swim_store.wsgi:application
+web: gunicorn swimstore.wsgi:application
