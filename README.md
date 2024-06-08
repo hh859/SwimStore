@@ -3,7 +3,7 @@
 
   ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/main%20page.png)
 
-Swim Store is a premier online destination catering to professional swimmers, enthusiasts, and parents. We offer a comprehensive range of swimming attire and equipment suitable for every occasion—from rigorous training sessions and open water meets to regular swimming activities. Our selection includes professional suits for men, women, and children of all ages, as well as specialised training gear and casual swim accessories.
+Swim Store is an online destination catering to professional swimmers, enthusiasts, and parents. We offer a comprehensive range of swimming attire and equipment suitable for every occasion—from rigorous training sessions and open water meets to regular swimming activities. Our selection includes professional suits for men, women, and children of all ages, as well as specialised training gear and casual swim accessories.
 
 Our website provides a browsing and purchasing experience featuring a diverse choice of brands, sizes, and colours. Enjoy a fast and efficient checkout process, easy order management, and the ability to create a personalised profile for future purchases.
 
