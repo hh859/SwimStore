@@ -64,6 +64,9 @@ There was an issue with Python version compatibility, which required an update f
   ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/Python%20version.png)
 To resolve it, the following commands are used: pyenv install 3.9.19, then pyenv local 3.9.19, and then the project is running. 
 
+There was an issue with the Duplicate ID error, which was easily fixed. 
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/main%20page%20validator.png)
+
 
 ## Deployment 
 The site is hosted on Heroku and deployed from GitHub. To host the products, the site is connected to AWS storage, which holds the static files. PostgreSQL is used as the database for storing data:
@@ -89,19 +92,19 @@ Deployment to Heroku:
 ## Validations
  - **HTML**
    - main page 
-  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/main%20page%20validator.png)
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/Updated%20HTML%20validator.png)
    - shopping bag
-  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/shopping%20bag%20validator%20.png)
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/Updated%20HTML%20validator.png)
    - login page
-  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/login%20validtor.png)
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/Updated%20HTML%20validator.png)
    - register page
-  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/register%20validator.png)
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/Updated%20HTML%20validator.png)
    - profile page
-  ![alt text]((https://github.com/hh859/SwimStore/blob/main/pictures/website/profile%20validator.png)
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/Updated%20HTML%20validator.png)
    - producs page
-  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/products%20page%20validator%20.png)
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/Updated%20HTML%20validator.png)
    - product management page
-  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/product%20management%20valdator%20.png)
+  ![alt text](https://github.com/hh859/SwimStore/blob/main/pictures/website/Updated%20HTML%20validator.png)
 
 
  - **CSS**
