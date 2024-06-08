@@ -33,6 +33,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['8000-hh859-swimstore-hp21wgv3qiy.ws-eu114.gitpod.io', 
 'swim-store.herokuapp.com', 'localhost',
 'https://git.heroku.com/swim-store.git',
+'swim-store-45c460b85d20.herokuapp.com'
 ]
 
 
