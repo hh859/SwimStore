@@ -22,7 +22,6 @@ Swim Store is dedicated to serving swimmers of all ages, helping them find the p
 - To provide an easy and interactive search process and site navigation
 - To offer the opportunity to checkout with or without creating an account
 - To attract users with appealing design and visuals
-- To offer intuitive user ...
 - To offer users the option to manage and update their account
 
 ## Design and Wireframes 
